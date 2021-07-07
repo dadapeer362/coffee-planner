@@ -1,0 +1,14 @@
+/* Write your code here. */
+.option-container {
+  list-style: none;
+}
+
+.heading-question {
+  margin-left: 30px;
+  font-size: 30px;
+}
+
+.row-option-container {
+  display: flex;
+  flex-direction: row;
+}
